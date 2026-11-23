@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://connect2imranaumar2002-byte.github.io/abi-ayyub-portal/sitemap.xml
